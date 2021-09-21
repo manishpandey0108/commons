@@ -27,5 +27,5 @@ The Epicenter platform provides a push channel, which allows you to publish and 
 
 ## AuthManager Process Flow ##
 
-![](_images/kernel-auth-service/token_generation.png)
+![](kernel-auth-service/_image/token_generation.png)
 
